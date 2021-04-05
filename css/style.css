@@ -98,7 +98,7 @@
 	color:#08AEE9!important;
 	font-size:18px;
 	margin-top:-40px;
-	text-align:center;
+
 }
 
 .solar-click
@@ -520,7 +520,7 @@
 {
   padding-left:55px;
   font-size:25px;
-  font-weight:600!important;
+  font-weight:500;
 }
 
 .link
@@ -528,6 +528,12 @@
   text-decoration:none!important; 
   color:#fff!important;
 }
+
+.link2
+{
+  text-decoration:none!important; 
+}
+
 
 
 /* CONTACT US PAGE */
