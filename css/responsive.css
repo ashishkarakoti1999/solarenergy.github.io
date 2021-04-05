@@ -40,12 +40,13 @@
 	color:#08AEE9!important;
 	font-size:18px;
 	margin-top:-130px;
+
 }
 
 .toll
 {
-  font-size:16px;
- margin-left:-40px;
+  font-size:15px;
+  margin-left:-40px;
   color:grey;
 }
 
@@ -358,7 +359,7 @@
 .consultancy-border
 {
   border-bottom: 2px solid #0192EB;
-   padding-bottom:55px!important;
+   padding-bottom:92px!important;
 }
 
 .font3
@@ -391,7 +392,13 @@
 .pioneer-border
 {
   border-bottom: 2px solid #0192EB;
-   padding-bottom:50px!important;
+   padding-bottom:85px!important;
+}
+
+.pioneer-border1
+{
+  border-bottom: 2px solid #0192EB;
+   padding-bottom:10px!important;
 }
 
 .script-text
