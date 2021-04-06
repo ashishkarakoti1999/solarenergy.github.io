@@ -644,7 +644,10 @@
 
 /* ABOUT US PAGE */
 
-
+.con-pad
+{
+  padding-top:20px;
+}
 .vision
 {
   font-size:28px; 
