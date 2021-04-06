@@ -566,6 +566,12 @@
   font-weight: 600;
 }
 
+.contact-nav
+{
+    text-decoration:none;
+     color:black; 
+     padding-left:60px;
+}
 .query-font
 {
   font-size:28px;
