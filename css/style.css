@@ -33,6 +33,38 @@
   padding-left:170px!important;
 }
  
+.animate-carousel
+{
+    font-size:20px!important; 
+    text-align: center;
+}
+
+.animate1
+{
+  padding-right:313px;
+}
+
+.animate2
+{
+  padding-left:200px;
+}
+
+.animate3
+{
+  margin-top:-60px;
+}
+
+.animate4
+{
+  padding-right:331px;
+}
+
+.animate-carousel2
+{
+  padding:30px 0px 0px 260px!important;
+   font-size:17px;
+}
+
  /* animate-sun */
 
 .animate-sun
